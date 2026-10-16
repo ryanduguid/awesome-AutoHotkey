@@ -4,8 +4,8 @@ A curated list of awesome [AutoHotkey](https://autohotkey.com/) libraries, libra
 
 Out-of-date or discontinued, but nonetheless historically relevant items can be found on [Historical.md](https://github.com/ahkscript/awesome-AutoHotkey/blob/master/Historical.md)
 
-Development state: 
-[![Build Status](https://travis-ci.org/ahkscript/awesome-AutoHotkey.svg)](https://travis-ci.org/ahkscript/awesome-AutoHotkey) [![awesome_bot](https://img.shields.io/badge/PoweredBy-awesome_bot-yellow.svg)](https://github.com/dkhamsing/awesome_bot)
+Development status for [upstream Awesome AutoHotkey](https://github.com/ahkscript/awesome-AutoHotkey):
+[![Upstream build](https://travis-ci.org/ahkscript/awesome-AutoHotkey.svg)](https://travis-ci.org/ahkscript/awesome-AutoHotkey) [![awesome_bot](https://img.shields.io/badge/PoweredBy-awesome_bot-yellow.svg)](https://github.com/dkhamsing/awesome_bot)
 
 <!-- Note: be sure to use unique anchor tags for each item in the table of contents -->
 * [Awesome AutoHotkey](#awesome-autohotkey)
